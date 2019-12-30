@@ -5,7 +5,7 @@
       {
         "appID": "CMA78X6BD2.com.signnow.signnow",
         "paths": [
-          "myLink"
+          "*"
         ]
       }
     ]
